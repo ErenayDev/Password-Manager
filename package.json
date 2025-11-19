@@ -1,7 +1,7 @@
 {
   "name": "password-manager",
   "version": "1.0.0",
-  "description": "Şifre yöneticisi",
+  "description": "Password Manager",
   "main": "index.mjs",
   "scripts": {
     "start": "node index.mjs"
