@@ -1,9 +1,9 @@
-# Şifre Yöneticisi
+# Password Manager
 
-## Kurmak İçin
+## To install
 
 `npm install`
 
-## Çalıştırmak için
+## To run
 
 `npm run start`
